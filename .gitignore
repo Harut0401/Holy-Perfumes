@@ -1,0 +1,12 @@
+# Local dev tooling (Claude Code preview config, machine-specific paths)
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+
+# Node (եթե ապագայում build tooling ավելացվի)
+node_modules/
